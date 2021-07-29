@@ -1,4 +1,4 @@
-# shortest-step-circular-array
+# Question
 <pre>
 X-Y-Z-A-B-C-D There is an circular alphabet wheel which print A to Z in sequence,  
 W    /|\    E it wraps so A & Z are adjacent. The wheel had a pointer that is initially at 'A' 
