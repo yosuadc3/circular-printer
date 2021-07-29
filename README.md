@@ -1,5 +1,5 @@
 # shortest-step-circular-array
-2021 Tokopedia Kampus Merdeka Intern Coding Test via Hackerrank   
+2021 T Intern Coding Test via Hackerrank   
 <pre>
 X-Y-Z-A-B-C-D
 W           E  
