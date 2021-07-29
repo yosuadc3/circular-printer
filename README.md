@@ -11,7 +11,7 @@ R           J
 Q-P-O-N-M-L-K
 </pre>
 Example Input and Output:
-Input: "BZA"
-Output: 3
-Explanation: first the pointer is at 'A' then move to 'B' it become 1 step, after that it move backward to Z it takes '2' step last the pointer move back to 'A' which take 1 step. so the total step taken is 1+2+1 = 4 steps
+Input: "BZA"  
+Output: 3  
+Explanation: first the pointer is at 'A' then move to 'B' it become 1 step, after that it move backward to Z it takes '2' step last the pointer move back to 'A' which take 1 step. so the total step taken is 1+2+1 = 4 steps  
       
