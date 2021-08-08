@@ -31,9 +31,8 @@ func abs(x int) int {
 }
 
 func countStep(words string) int {
-  var pointer = 0
-
   var ( 
+    pointer = 0
     steps = 0
     clockwise = 0
     counterClockwise = 0
