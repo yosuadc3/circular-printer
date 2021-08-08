@@ -11,7 +11,7 @@ func main(){
     alphabetCircle = append(alphabetCircle, string(i))
   }
   stringToCount := "BZA"
-  fmt.Println(countStep(stringToCount))
+  fmt.Println(getTime(stringToCount))
 }
 
 func indexOf(element string, data []string) (int) {
@@ -30,7 +30,7 @@ func abs(x int) int {
 	return x
 }
 
-func countStep(words string) int {
+func getTime(words string) int {
   var ( 
     pointer = 0
     steps = 0
