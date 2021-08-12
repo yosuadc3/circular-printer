@@ -4,9 +4,9 @@ X-Y-Z-A-B-C-D   There is an circular alphabet wheel which print A to Z in sequen
 W    /|\    E   it wraps so A & Z are adjacent. The wheel had a pointer that is initially at 'A' 
 V     |     F   Moving from any character to adjacent character in any direction takes 1 step 
 U     |     G   write a program with output shortest step needed to travel  
-T     |     H   in any direction from given string input
+T     |     H   in any direction from given string input (S)
 S           I  
-R           J
+R           J   Constraint 1 <= length of S <= 10^5
 Q-P-O-N-M-L-K
 </pre>
 # Example Input and Output:  
