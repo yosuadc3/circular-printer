@@ -11,7 +11,9 @@ func main(){
     alphabetCircle = append(alphabetCircle, string(i))
   }
   stringToCount := "BZA"
-  fmt.Println(getTime(stringToCount))
+  if len(stringToCount) >= 1 && len(stringToCount) <= 100000 {
+     fmt.Println(getTime(stringToCount))
+  }
 }
 
 func indexOf(element string, data []string) (int) {
